@@ -14,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
- # 🔥 Roast My Cart
+ #  Roast My Cart
 
 **A savage AI-powered financial advisor that judges your spending habits before you regret them.**
 
@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **Roast My Cart** is not a traditional budget tracker.  
 It is a **pre-purchase financial intervention app** designed to reduce impulse buying using **humor, accountability, and AI-driven feedback**.
@@ -39,13 +39,13 @@ The app then uses **Google Gemini 1.5 Flash (multimodal)** to analyze both input
 
 ---
 
-## 💡 Problem Statement
+##  Problem Statement
 
 - **Impulse buying is widespread:** A significant portion of online purchases are unplanned.
 - **Passive tracking fails:** Expense trackers inform users *after* the money is gone.
 - **Lack of emotional intervention:** Spending decisions are emotional, not logical.
 
-### 🎯 Solution
+###  Solution
 **Roast My Cart** intervenes *before* the purchase by:
 - Analysing the product visually
 - Evaluating the justification
@@ -53,7 +53,7 @@ The app then uses **Google Gemini 1.5 Flash (multimodal)** to analyze both input
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Multimodal AI Analysis**  
   Uses image + text input together to assess the purchase context.
@@ -69,15 +69,15 @@ The app then uses **Google Gemini 1.5 Flash (multimodal)** to analyze both input
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
-### 📱 Frontend — Flutter (Dart)
+###  Frontend — Flutter (Dart)
 - Single codebase for cross-platform deployment
 - Clean UI using Material components
 - `StatefulWidget` and `setState()` for state management
 - `FutureBuilder` for async AI responses
 
-### 🧠 AI Engine — Google Gemini 1.5 Flash
+###  AI Engine — Google Gemini 1.5 Flash
 - **Model:** `gemini-1.5-flash`
 - **Why Gemini Flash?**
   - Supports **multimodal input (image + text)**
@@ -86,15 +86,15 @@ The app then uses **Google Gemini 1.5 Flash (multimodal)** to analyze both input
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### ✅ Prerequisites
+###  Prerequisites
 1. Flutter SDK installed
 2. Google Cloud API Key with **Generative Language API** enabled
 
 ---
 
-### ▶️ Setup Instructions
+###  Setup Instructions
 
 #### 1. Clone the Repository
 ```bash
