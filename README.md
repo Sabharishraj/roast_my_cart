@@ -100,3 +100,17 @@ The app then uses **Google Gemini 1.5 Flash (multimodal)** to analyze both input
 ```bash
 git clone https://github.com/your-username/roast-my-cart.git
 cd roast-my-cart
+```
+#### 2. Install Dependencies
+````bash
+flutter pub get
+````
+#### 3. Configure API Key
+````bash
+static const String apiKey = 'YOUR_API_KEY_HERE';
+````
+#### 4. Run the App
+````bash
+flutter run
+````
+
