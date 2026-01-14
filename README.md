@@ -113,4 +113,6 @@ static const String apiKey = 'YOUR_API_KEY_HERE';
 ````bash
 flutter run
 ````
+## Team Roles
+#### Sabharish raj - Backend integration and explanation
 
